@@ -8,4 +8,5 @@ Day Four: Program to calculate compound interest
 Day Five: I created a simple code that calculates the user's age and shows if the user is older or younger 
 Day Six: Program that reads name and age and performs a quick test of traffic laws 
 Day Seven: I created the paper and scissors stone game 
-Day Eight: Message Bot (NOW)
+Day Eight: Message Bot 
+Day Nine: Calculate your monthly fees (NOW)
