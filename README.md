@@ -9,4 +9,5 @@ Day Five: I created a simple code that calculates the user's age and shows if th
 Day Six: Program that reads name and age and performs a quick test of traffic laws 
 Day Seven: I created the paper and scissors stone game 
 Day Eight: Message Bot 
-Day Nine: Calculate your monthly fees (NOW)
+Day Nine: Calculate your monthly fees 
+Day Ten: The summary was commissioned when I sent it through GitHub desktop (NOW)
