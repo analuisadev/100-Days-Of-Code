@@ -39,7 +39,7 @@ print ('PROCESSING...')
 if total <= 900:
     print ('\033[1;32mYour monthly income may be short, look for a way to earn EXTRA INCOME!\033[m')
     print ('''\033[1;33mEXTRA INCOME IDEAS:
-           1- Copper to teach
+           1 - Copper to teach
            2 - Offer your services
            3 - Take a tour of your home and write down what you no longer use and sell
            4 - Sell ​​online or face-to-face courses 
