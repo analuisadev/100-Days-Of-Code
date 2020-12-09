@@ -11,4 +11,5 @@ Day Seven: I created the paper and scissors stone game
 Day Eight: Message Bot 
 Day Nine: Calculate your monthly fees 
 Day Ten: The summary was commissioned when I sent it through GitHub desktop 
-Day Eleven: Test of punctuated traffic laws (NOW)
+Day Eleven: Test of punctuated traffic laws 
+Day Twelve: Integer converter in Binary, Octal and Hexadecimal (NOW)
