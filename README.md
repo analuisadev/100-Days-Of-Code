@@ -1,6 +1,5 @@
-<br># 100 Days Of Code</br>
- Here is my progress in 100 Days of code
-
+<br># 100 Days Of Code
+<br>Here is my progress in 100 Days of code:</br>
 Day one : Program to calculate average
 Day Two: Divination program
 Day Three: Text analyzer program
