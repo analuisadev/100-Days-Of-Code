@@ -1,14 +1,14 @@
 <br># 100 Days Of Code
 <br>Here is my progress in 100 Days of code:</br>
-Day one : Program to calculate average
-Day Two: Divination program
-Day Three: Text analyzer program
-Day Four: Program to calculate compound interest
-Day Five: I created a simple code that calculates the user's age and shows if the user is older or younger 
-Day Six: Program that reads name and age and performs a quick test of traffic laws 
-Day Seven: I created the paper and scissors stone game 
-Day Eight: Message Bot 
-Day Nine: Calculate your monthly fees 
-Day Ten: The summary was commissioned when I sent it through GitHub desktop 
-Day Eleven: Test of punctuated traffic laws 
-Day Twelve: Integer converter in Binary, Octal and Hexadecimal (NOW)
+<br>Day one : Program to calculate average</br>
+<br>Day Two: Divination program</br>
+<br>Day Three: Text analyzer program</br>
+<br>Day Four: Program to calculate compound interest</br>
+<br>Day Five: I created a simple code that calculates the user's age and shows if the user is older or younger</br>
+<br>Day Six: Program that reads name and age and performs a quick test of traffic laws</br> 
+<br>Day Seven: I created the paper and scissors stone game</br> 
+<br>Day Eight: Message Bot</br> 
+<br>Day Nine: Calculate your monthly fees</br> 
+<br>Day Ten: The summary was commissioned when I sent it through GitHub desktop</br> 
+<br>Day Eleven: Test of punctuated traffic laws</br> 
+<br>Day Twelve: Integer converter in Binary, Octal and Hexadecimal (NOW)</br>
