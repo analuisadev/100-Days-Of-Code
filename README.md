@@ -12,3 +12,4 @@
 <br>Day Ten: The summary was commissioned when I sent it through GitHub desktop</br> 
 <br>Day Eleven: Test of punctuated traffic laws</br> 
 <br>Day Twelve: Integer converter in Binary, Octal and Hexadecimal (NOW)</br>
+<br> Day Thirteen: BMI calculation</br>
