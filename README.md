@@ -15,3 +15,4 @@
 <br> Day Thirteen: BMI calculation</br>
 <br> Day Fourteen: I play already and I never </br>
 <br> Day Fifth: I created one basic sistem bank</br>
+<br> Day Sixth: I created a payment system (NOW)</br>
