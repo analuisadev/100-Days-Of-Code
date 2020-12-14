@@ -15,4 +15,5 @@
 <br> Day Thirteen: BMI calculation</br>
 <br> Day Fourteen: I play already and I never </br>
 <br> Day Fifth: I created one basic sistem bank</br>
-<br> Day Sixth: I created a payment system (NOW)</br>
+<br> Day Sixth: I created a payment system</br>
+<br> Day Seventh: I created a multiplication table using structure and repetition conditions. (NOW)</br>
