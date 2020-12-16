@@ -16,4 +16,5 @@
 <br> Day Fourteen: I play already and I never </br>
 <br> Day Fifth: I created one basic sistem bank</br>
 <br> Day Sixth: I created a payment system</br>
-<br> Day Seventh: I created a multiplication table using structure and repetition conditions. (TODAY)</br>
+<br> Day Seventh: I created a multiplication table using structure and repetition conditions.</br>
+<br> Day Eighteen: In a one-course challenge, I created a palindrome detector with IF, Else and For. (TODAY)</br>
