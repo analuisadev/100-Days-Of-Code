@@ -1,21 +1,22 @@
 <br># 100 Days Of Code
 <br>Here is my progress in 100 Days of code:</br>
-<br>Day one : Program to calculate average</br>
-<br>Day Two: Divination program</br>
-<br>Day Three: Text analyzer program</br>
-<br>Day Four: Program to calculate compound interest</br>
-<br>Day Five: I created a simple code that calculates the user's age and shows if the user is older or younger</br>
-<br>Day Six: Program that reads name and age and performs a quick test of traffic laws</br> 
-<br>Day Seven: I created the paper and scissors stone game</br> 
-<br>Day Eight: Message Bot</br> 
-<br>Day Nine: Calculate your monthly fees</br> 
-<br>Day Ten: The summary was commissioned when I sent it through GitHub desktop</br> 
-<br>Day Eleven: Test of punctuated traffic laws</br> 
-<br>Day Twelve: Integer converter in Binary, Octal and Hexadecimal </br>
-<br> Day Thirteen: BMI calculation</br>
-<br> Day Fourteen: I play already and I never </br>
-<br> Day Fifth: I created one basic sistem bank</br>
-<br> Day Sixth: I created a payment system</br>
-<br> Day Seventh: I created a multiplication table using structure and repetition conditions.</br>
-<br> Day Eighteen: In a one-course challenge, I created a palindrome detector with IF, Else and For.</br>
-<br> Day Nineteen: Complete analyzer between older and younger people and under 20s (TODAY)</br>
+<br>Day 1 : Program to calculate average</br>
+<br>Day 2 : Divination program</br>
+<br>Day 3 : Text analyzer program</br>
+<br>Day 4 : Program to calculate compound interest</br>
+<br>Day 5 : I created a simple code that calculates the user's age and shows if the user is older or younger</br>
+<br>Day 6 : Program that reads name and age and performs a quick test of traffic laws</br> 
+<br>Day 7 : I created the paper and scissors stone game</br> 
+<br>Day 8 : Message Bot</br> 
+<br>Day 9 : Calculate your monthly fees</br> 
+<br>Day 10 : The summary was commissioned when I sent it through GitHub desktop</br> 
+<br>Day 11 : Test of punctuated traffic laws</br> 
+<br>Day 12 : Integer converter in Binary, Octal and Hexadecimal </br>
+<br> Day 13 : BMI calculation</br>
+<br> Day 14 : I play already and I never </br>
+<br> Day 15 : I created one basic sistem bank</br>
+<br> Day 16 : I created a payment system</br>
+<br> Day 17 : I created a multiplication table using structure and repetition conditions.</br>
+<br> Day 18 : In a one-course challenge, I created a palindrome detector with IF, Else and For.</br>
+<br> Day 19 : Complete analyzer between older and younger people and under 20s.</br>
+<br> Day 20 : Version 2.0 of the guessing game using While (TODAY)</br>
