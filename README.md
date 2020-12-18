@@ -19,4 +19,5 @@
 <br> Day 17 : I created a multiplication table using structure and repetition conditions.</br>
 <br> Day 18 : In a one-course challenge, I created a palindrome detector with IF, Else and For.</br>
 <br> Day 19 : Complete analyzer between older and younger people and under 20s.</br>
-<br> Day 20 : Version 2.0 of the guessing game using While (TODAY)</br>
+<br> Day 20 : Version 2.0 of the guessing game using While.</br>
+<br> Day 21: I created an options menu in an exercise that accepts up to 2 whole values. (TODA)</br>
