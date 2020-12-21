@@ -1,6 +1,6 @@
 <br># 100 Days Of Code
 <br>Here is my progress in 100 Days of code:</br>
-<br><b>Day 1</b> : Program to calculate average</br>
+<br><b>Day 1: Program to calculate average</br>
 <br>Day 2 : Divination program</br>
 <br>Day 3 : Text analyzer program</br>
 <br>Day 4 : Program to calculate compound interest</br>
@@ -22,4 +22,4 @@
 <br> Day 20 : Version 2.0 of the guessing game using While.</br>
 <br> Day 21: I created an options menu in an exercise that accepts up to 2 whole values.</br>
 <br> Day 22: I did version 2.0 of the arithmetic progression exercise using while.</br>
-<br> Day 23: I redid the multiplication table using While, For and If.(TODAY)</br>
+<br> Day 23: I redid the multiplication table using While, For and If.(TODAY)</b></br>
