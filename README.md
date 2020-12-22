@@ -23,4 +23,5 @@
 <br> Day 21: I created an options menu in an exercise that accepts up to 2 whole values.</br>
 <br> Day 22: I did version 2.0 of the arithmetic progression exercise using while.</br>
 <br> Day 23: I redid the multiplication table using While, For and If.</br>
-<br> Day 24: BIGGER AND SMALLER VALUES. (TODAY)</b></br>
+<br> Day 24: BIGGER AND SMALLER VALUES.</br>
+<br> Day 25: School average result. (TODAY)</b></br>
