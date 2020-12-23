@@ -26,4 +26,4 @@
 <br> Day 24: BIGGER AND SMALLER VALUES.</br>
 <br> Day 25: School average result.</br>
 <br> Day 26: I made version 3.0 of the multiplication table with what I learned in the version of a Python course.</br>
-<br>I used condition structures, repetitions and the repetition structure pause. (For, If, Elif, Else, While and Break) ... (TODAY)</b></br>
+<br>I used condition structures, repetitions and the repetition structure pause. (For, If, Elif, Else, While and Break) ... (TODAY) PT-BR</b></br>
