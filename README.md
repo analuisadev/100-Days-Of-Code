@@ -27,4 +27,5 @@
 <br> Day 25: School average result.</br>
 <br> Day 26: I made version 3.0 of the multiplication table with what I learned in the version of a Python course.</br>
 <br>I used condition structures, repetitions and the repetition structure pause. (For, If, Elif, Else, While and Break) ... (TODAY) PT-BR</br>
-<be> Day 27: Even or Odd? (TODAY)</b></br>
+<br> Day 27: Even or Odd?</br>
+<br> Day 28: Basic bank 2.0 system in progress ... (TODAY) </b></br>
