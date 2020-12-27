@@ -29,4 +29,7 @@
 <br>I used condition structures, repetitions and the repetition structure pause. (For, If, Elif, Else, While and Break) ... (TODAY) PT-BR</br>
 <br> Day 27: Even or Odd?</br>
 <br> Day 28: Basic bank 2.0 system with condition structure, repetition, break and continue... PT-BR</br>
-<br> Day 29: I created a program that shows alerts and warnings to covid 19 and issues a warning according to the user's measured temperature. (TODAY)</b></br>
+<br> Day 29: I created a program that shows alerts and warnings to covid 19 and issues a warning according to the user's measured temperature.</br>
+<br> Day 30: I made a program that reads and validates some user information:</br>
+<br>Name, Sex, Age, Marital Status and Salary.</br>
+<br>The program is complete in PT-BR.</b></br>
