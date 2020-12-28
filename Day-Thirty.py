@@ -26,7 +26,7 @@ print (f'\033[1mO seu salário é R${salario} e foi informado corretamente.\033[
 if (sexo != 'F') and (sexo != 'M'): 
     print ('\033[1mO sexo foi digitado fora dos caracteres permitidos\033[m')
 print (f'\033[1mO seu sexo é {sexo} e foi digitado corretamente.\033[m')
-while (estciv != 'S') and (estciv != 'C') and (estciv != 'V') and (estciv != 'D') and (estciv != 'U'):
+while estciv not in 'SCVDU':
     print ('\033[1mO Estado Civil informado não corresponde ao indicado, informe novamente: ')
     estciv = str(input('\033[1mInforme o seu Estado Civil: S/C/V/D/U \033[m ')).upper().strip()[0]
 print ('\033[1mO seu Estado Civil foi digitado dentro dos caracteres permitidos\033[m')
