@@ -29,6 +29,5 @@ print (f'\033[1mO seu sexo é {sexo} e foi digitado corretamente.\033[m')
 while (estciv != 'S') and (estciv != 'C') and (estciv != 'V') and (estciv != 'D') and (estciv != 'U'):
     print ('\033[1mO Estado Civil informado não corresponde ao indicado, informe novamente: ')
     estciv = str(input('\033[1mInforme o seu Estado Civil: S/C/V/D/U \033[m ')).upper().strip()[0]
-    if (estciv == 'S') and (estciv == 'C') and (estciv == 'V') and (estciv == 'D') and (estciv == 'U'): 
-        print ('\033[1mO seu Estado Civil foi digitado dentro dos caracteres permitidos\033[m')
+print ('\033[1mO seu Estado Civil foi digitado dentro dos caracteres permitidos\033[m')
 print ('\033[1;32mFim do programa\033[m')
