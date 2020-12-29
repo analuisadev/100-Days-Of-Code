@@ -33,4 +33,5 @@
 <br> Day 30: I made a program that reads and validates some user information:</br>
 <br>Name, Sex, Age, Marital Status and Salary.</br>
 <br>The program is complete in PT-BR.</br>
-<br> Day 31: my first simple web application using Flask. (TODAY)</b></br>
+<br> Day 31: my first simple web application using Flask.</br>
+<br> Day 32: Numbers in Full using Tuples. (TODAY)</b></br>
