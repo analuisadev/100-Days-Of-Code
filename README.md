@@ -34,4 +34,5 @@
 <br>Name, Sex, Age, Marital Status and Salary.</br>
 <br>The program is complete in PT-BR.</br>
 <br> Day 31: my first simple web application using Flask.</br>
-<br> Day 32: Numbers in Full using Tuples. (TODAY)</b></br>
+<br> Day 32: Numbers in Full using Tuples.</b></br>
+<br> Day 33: Exercise proposed in a raw. I used Tuples to solve. The program is complete in PT-BR (TODAY)</b></br>
