@@ -1,0 +1,11 @@
+times = ('São Paulo', 'Atlético-MG', 'Flamengo', 'Internacional', 'Grêmio', 'Palmeiras', 'Fluminense', 'Santos',
+         'Ceará SC', 'Athletico-PR', 'Atlético-GO', 'Bragantino', 'Fortaleza', 'Sport Recife', 'Bahia', 'Vasco da Gama', 'Goiás', 'Chapecoense', 'Coritiba')
+print ('-=' * 78)
+print (f'\033[1mLista de times {times}\033[m')
+print ('-=' * 78)
+print (f'\033[1mOs 5 primeiros times são: {times[0:5]}\033[m')
+print ('-=' * 78)
+print (f'\033[1mA ordem dos times é : {sorted(times)}\033[m')
+print ('-=' * 78)
+print (f'\033[1mO time da chapecoense está na {times.index("Chapecoense")}° posição\033[m')
+print ('-=' * 78)
