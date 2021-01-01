@@ -36,4 +36,5 @@
 <br> Day 31: my first simple web application using Flask.</br>
 <br> Day 32: Numbers in Full using Tuples.</b></br>
 <br> Day 33: Exercise proposed in a raw. I used Tuples to solve. The program is complete in PT-BR. </br>
-<br> Day 34: Python Tuples Price Listing (PT-BR) (TODAY)</b></br>
+<br> Day 34: Python Tuples Price Listing (PT-BR) (TODAY)</br>
+<br> Day 35: I made a program that reads the vowels of the elements defined within a tuple. (TODAY) </b></br>
