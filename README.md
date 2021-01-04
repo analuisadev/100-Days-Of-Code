@@ -40,4 +40,4 @@
 <br> Day 35: I made a program that reads the vowels of the elements defined within a tuple. (TODAY)</br>
 <br> Day 36: I did a lower and higher value exercise using Python Lists.</br>
 <br> Day 37: I did a brief Data Structures exercise (LIST) using the command to reverse the order of the whole numbers written as an exercise. (TODAY)</br>
-<br> Day 38: Program for reading notes, sum, average and order reversal using tuples. (TODAY)</b><br>
+<br> Day 38: Program for reading notes, sum, average and order reversal using Lists. (TODAY)</b><br>
