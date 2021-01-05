@@ -26,7 +26,7 @@
 <br> Day 24: BIGGER AND SMALLER VALUES.</br>
 <br> Day 25: School average result.</br>
 <br> Day 26: I made version 3.0 of the multiplication table with what I learned in the version of a Python course.</br>
-<br>I used condition structures, repetitions and the repetition structure pause. (For, If, Elif, Else, While and Break) ... (TODAY) PT-BR</br>
+<br>I used condition structures, repetitions and the repetition structure pause. (For, If, Elif, Else, While and Break) ...PT-BR</br>
 <br> Day 27: Even or Odd?</br>
 <br> Day 28: Basic bank 2.0 system with condition structure, repetition, break and continue... PT-BR</br>
 <br> Day 29: I created a program that shows alerts and warnings to covid 19 and issues a warning according to the user's measured temperature.</br>
@@ -40,5 +40,5 @@
 <br> Day 35: I made a program that reads the vowels of the elements defined within a tuple.</br>
 <br> Day 36: I did a lower and higher value exercise using Python Lists.</br>
 <br> Day 37: I did a brief Data Structures exercise (LIST) using the command to reverse the order of the whole numbers written as an exercise.</br>
-<br> Day 38: Program for reading notes, sum, average and order reversal using Lists.<br>
+<br> Day 38: Program for reading notes, sum, average and order reversal using Lists.</br>
 <br> Day 39: In an exercise I created a program where the user can enter several numerical values and register them in a list. If the number already exists inside, it will not be added. At the end, all the unique values entered will be displayed, in ascending order. (TODAY)</b></br>
