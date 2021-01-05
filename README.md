@@ -36,8 +36,9 @@
 <br> Day 31: my first simple web application using Flask.</br>
 <br> Day 32: Numbers in Full using Tuples.</br>
 <br> Day 33: Exercise proposed in a raw. I used Tuples to solve. The program is complete in PT-BR. </br>
-<br> Day 34: Python Tuples Price Listing (PT-BR) (TODAY)</br>
-<br> Day 35: I made a program that reads the vowels of the elements defined within a tuple. (TODAY)</br>
+<br> Day 34: Python Tuples Price Listing (PT-BR)</br>
+<br> Day 35: I made a program that reads the vowels of the elements defined within a tuple.</br>
 <br> Day 36: I did a lower and higher value exercise using Python Lists.</br>
-<br> Day 37: I did a brief Data Structures exercise (LIST) using the command to reverse the order of the whole numbers written as an exercise. (TODAY)</br>
-<br> Day 38: Program for reading notes, sum, average and order reversal using Lists. (TODAY)</b><br>
+<br> Day 37: I did a brief Data Structures exercise (LIST) using the command to reverse the order of the whole numbers written as an exercise.</br>
+<br> Day 38: Program for reading notes, sum, average and order reversal using Lists.<br>
+<br> Day 39: In an exercise I created a program where the user can enter several numerical values and register them in a list. If the number already exists inside, it will not be added. At the end, all the unique values entered will be displayed, in ascending order. (TODAY)</b></br>
