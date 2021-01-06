@@ -41,4 +41,5 @@
 <br> Day 36: I did a lower and higher value exercise using Python Lists.</br>
 <br> Day 37: I did a brief Data Structures exercise (LIST) using the command to reverse the order of the whole numbers written as an exercise.</br>
 <br> Day 38: Program for reading notes, sum, average and order reversal using Lists.</br>
-<br> Day 39: In an exercise I created a program where the user can enter several numerical values and register them in a list. If the number already exists inside, it will not be added. At the end, all the unique values entered will be displayed, in ascending order. (TODAY)</b></br>
+<br> Day 39: In an exercise I created a program where the user can enter several numerical values and register them in a list. If the number already exists inside, it will not be added. At the end, all the unique values entered will be displayed, in ascending order.</b></br>
+<br> Day 40: In this exercise I created based on some commands that I learned to change the elements of the list using integers. (TODAY)</b></br>
