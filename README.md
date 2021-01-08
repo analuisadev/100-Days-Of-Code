@@ -43,4 +43,5 @@
 <br> Day 38: Program for reading notes, sum, average and order reversal using Lists.</br>
 <br> Day 39: In an exercise I created a program where the user can enter several numerical values and register them in a list. If the number already exists inside, it will not be added. At the end, all the unique values entered will be displayed, in ascending order.</br>
 <br> Day 40: In this exercise I created based on some commands that I learned to change the elements of the list using integers.</br>
-<br> Day 41: Ordered list without repetitions (TODAY)</b></br>
+<br> Day 41: Ordered list without repetitions.</br>
+<br> Day 42: I created a program that extracts data from a list. (TODAY)</b></br
