@@ -45,4 +45,5 @@
 <br> Day 40: In this exercise I created based on some commands that I learned to change the elements of the list using integers.</br>
 <br> Day 41: Ordered list without repetitions.</br>
 <br> Day 42: I created a program that extracts data from a list.</br>
-<br> Day 43: I created a program that divides several lists. The program is complete in PT-BR (TODAY)</b></br>
+<br> Day 43: I created a program that divides several lists. The program is complete in PT-BR.</br>
+<br> Day 44: I made a program that validates numeric expressions using lists. (TODAY)</b></br>
