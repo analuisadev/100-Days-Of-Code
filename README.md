@@ -46,4 +46,5 @@
 <br> Day 41: Ordered list without repetitions.</br>
 <br> Day 42: I created a program that extracts data from a list.</br>
 <br> Day 43: I created a program that divides several lists. The program is complete in PT-BR.</br>
-<br> Day 44: I made a program that validates numeric expressions using lists. (TODAY)</b></br>
+<br> Day 44: I made a program that validates numeric expressions using lists.</br>
+<br> Day 45: I created a composite list with data analysis. (TODAY)</b></br>
