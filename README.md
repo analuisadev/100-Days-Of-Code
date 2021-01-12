@@ -47,4 +47,5 @@
 <br> Day 42: I created a program that extracts data from a list.</br>
 <br> Day 43: I created a program that divides several lists. The program is complete in PT-BR.</br>
 <br> Day 44: I made a program that validates numeric expressions using lists.</br>
-<br> Day 45: I created a composite list with data analysis. (TODAY)</b></br>
+<br> Day 45: I created a composite list with data analysis.</br>
+<br> Day 46: List with even and odd numbers. (TODAY)</b></br>
