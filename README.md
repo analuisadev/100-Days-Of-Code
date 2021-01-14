@@ -49,4 +49,5 @@
 <br> Day 44: I made a program that validates numeric expressions using lists.</br>
 <br> Day 45: I created a composite list with data analysis.</br>
 <br> Day 46: List with even and odd numbers.</br>
-<br> Day 47: I learned how to create an array in python. PT-BR </b></br>
+<br> Day 47: I learned how to create an array in python. PT-BR</br>
+<br> Day 48: Python Array Enhancement that I learned to do PT-BR (TODAY)</b></br>
