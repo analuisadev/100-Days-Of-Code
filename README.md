@@ -51,4 +51,5 @@
 <br> Day 46: List with even and odd numbers.</br>
 <br> Day 47: I learned how to create an array in python. PT-BR</br>
 <br> Day 48: Python Array Enhancement that I learned to do PT-BR</br>
-<br> Day 49: Guesses on the mega sena using lists PT-BR (TODAY)</b></br>
+<br> Day 49: Guesses on the mega sena using lists PT-BR</br>
+<br> Day 50: School report card with lists PT-BR</b></br>
