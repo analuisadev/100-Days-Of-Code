@@ -53,4 +53,5 @@
 <br> Day 48: Python Array Enhancement that I learned to do PT-BR</br>
 <br> Day 49: Guesses on the mega sena using lists PT-BR</br>
 <br> Day 50: School report card with lists PT-BR</b></br>
-<br> Day 51: First program reading and printing users' names and ages using dictionaries PT-BR (TODAY)</b></br>
+<br> Day 51: First program reading and printing users' names and ages using dictionaries PT-BR</br>
+<br> Day 52: I made a program that receives the student's name and average and prints his school situation using a dictionary (TODAY)</b></br>
