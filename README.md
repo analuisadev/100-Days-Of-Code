@@ -55,4 +55,5 @@
 <br> Day 50: School report card with lists PT-BR</br>
 <br> Day 51: First program reading and printing users' names and ages using dictionaries PT-BR</br>
 <br> Day 52: I made a program that receives the student's name and average and prints his school situation using a dictionary.</br>
-<br> Day 53: Ranking game using dictionary. (TODAY)</b></br>
+<br> Day 53: Ranking game using dictionary.</br>
+<br> Day 54: I made an algorithm that registers some data of workers using dictionaries in Python. </b></br>
