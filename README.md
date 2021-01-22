@@ -57,4 +57,5 @@
 <br> Day 52: I made a program that receives the student's name and average and prints his school situation using a dictionary.</br>
 <br> Day 53: Ranking game using dictionary.</br>
 <br> Day 54: I made an algorithm that registers some data of workers using dictionaries in Python.</br>
-<br> Day 55: I created an algorithm that manages the football player's performance. (TODAY) </b></br>
+<br> Day 55: I created an algorithm that manages the football player's performance.</br>
+<br> Day 56: Contact scheduling and deletion algorithm (TODAY) obs: preciso resolver um problema no código final </b></br> 
