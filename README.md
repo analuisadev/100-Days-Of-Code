@@ -60,4 +60,4 @@
 <br> Day 55: I created an algorithm that manages the football player's performance.</br>
 <br> Day 56: Contact scheduling and deletion algorithm  OBS: preciso resolver um problema no código final</br> 
 <br> Day 57: Algorithm that calculates the land area in meters using functions. </br>
-<br> Day 58: I made a simple algorithm that shows a message with an adaptable size. (TODAY)</b></br>
+<br> Day 58: I made a simple algorithm that shows a message with an adaptable size using functions. (TODAY)</b></br>
