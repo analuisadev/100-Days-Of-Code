@@ -58,4 +58,5 @@
 <br> Day 53: Ranking game using dictionary.</br>
 <br> Day 54: I made an algorithm that registers some data of workers using dictionaries in Python.</br>
 <br> Day 55: I created an algorithm that manages the football player's performance.</br>
-<br> Day 56: Contact scheduling and deletion algorithm (TODAY) obs: preciso resolver um problema no código final </b></br> 
+<br> Day 56: Contact scheduling and deletion algorithm  OBS: preciso resolver um problema no código final</br> 
+<br> Day 57: Algorithm that calculates the land area in meters using functions </b></br>
