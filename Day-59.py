@@ -8,19 +8,19 @@ def contador(inicio, fim, pulo):
         print ('O pulo não pode ser igual a ZERO!')
         sys.exit()
     print (f'A contagem será feita de {inicio}, {fim} de {pulo} em {pulo}.')
-    sleep(1)
+    sleep(0.4)
     if inicio < fim:
         cont = inicio
         while cont <= fim:
             print (f'{cont}', end='',flush=True)
-            sleep (1)
+            sleep (0.4)
             cont += pulo
         print ('SEÇÃO FINALIZADA!')
     else: 
         cont = inicio
         while cont >= fim:
             print (f'{cont}', end='', flush=True)
-            sleep(1)
+            sleep(0.4)
         print ('SEÇÃO FINALIZADA!')
 print ('-=' * 20)
 contador (1, 10, 1)
