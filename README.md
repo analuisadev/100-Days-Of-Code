@@ -62,4 +62,5 @@
 <br> Day 57: Algorithm that calculates the land area in meters using functions.</br>
 <br> Day 58: I made a simple algorithm that shows a message with an adaptable size using functions.</br>
 <br> Day 59: Counter algorithm using function.</br>
-<br> Day 60: Function that discovers the largest number (TODAY) </b></br>
+<br> Day 60: Function that discovers the largest number.</br>
+<br> Day 61: Algorithm that draws 5 random numbers and adds pairs using functions and list (TODAY) </b></br>
