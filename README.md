@@ -64,4 +64,5 @@
 <br> Day 59: Counter algorithm using function.</br>
 <br> Day 60: Function that discovers the largest number.</br>
 <br> Day 61: Algorithm that draws 5 random numbers and adds pairs using functions and list.</br>
-<br> Day 62: Scheduling trips using Classes (simple program) (TODAY) </b></br>
+<br> Day 62: Scheduling trips using Classes (simple program)</br>
+<br> Day 63: Interactive Python help system (TODAY)</b></br>
