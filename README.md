@@ -1,7 +1,7 @@
 <br># 100 Days Of Code
 <br>Here is my progress in 100 Days of code:
 <br><b>Day 1: Program to calculate average
-<br>Day 2 : Divination program
+<br>Day 2 : Divination program</br>
 <br>Day 3 : Text analyzer program
 <br>Day 4 : Program to calculate compound interest
 <br>Day 5 : I created a simple code that calculates the user's age and shows if the user is older or younger
