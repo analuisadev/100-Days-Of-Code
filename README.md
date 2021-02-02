@@ -69,3 +69,4 @@
 <br> Day 64: I created a program that analyzes the vote between: DENIED, OPTIONAL and MANDATORY according to the age received by the user.</br>
 <br> Day 65: Program that receives the record of a player with name and number of goals scored</br>
 <br> Day 66: Validating data entry in python</b></br>
+<br> Day 67: Analyzing notes and generating dictionaries (TODAY)</b>
