@@ -26,7 +26,7 @@
 <br> Day 24: BIGGER AND SMALLER VALUES.</br>
 <br> Day 25: School average result.</br>
 <br> Day 26: I made version 3.0 of the multiplication table with what I learned in the version of a Python course.</br>
-<br>I used condition structures, repetitions and the repetition structure pause. (For, If, Elif, Else, While and Break) ...PT-BR</br></br>
+<br>I used condition structures, repetitions and the repetition structure pause. (For, If, Elif, Else, While and Break) ...PT-BR</br>
 <br> Day 27: Even or Odd.</br>
 <br> Day 28: Basic bank 2.0 system with condition structure, repetition, break and continue... PT-BR</br>
 <br> Day 29: I created a program that shows alerts and warnings to covid 19 and issues a warning according to the user's measured temperature.</br>
