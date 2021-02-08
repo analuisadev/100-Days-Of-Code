@@ -71,4 +71,7 @@
 <br> Day 66: Validating data entry in python.</br>
 <br> Day 67: Analyzing notes and generating dictionaries.</br>
 <br> Day 68: exercising modulos in python.</br>
+<br> Day69/70: Continuing modulation</br>
+<br> Day 71: Contact scheduling algorithm</br>
+<br> Day 72: Practicing error handling</br>
 <br> Day 73: Algorithm for scheduling cars using dictionary.</b></br>
