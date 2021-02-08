@@ -70,4 +70,5 @@
 <br> Day 65: Program that receives the record of a player with name and number of goals scored.</br>
 <br> Day 66: Validating data entry in python.</br>
 <br> Day 67: Analyzing notes and generating dictionaries.</br>
-<br> Day 68: exercising modulos in python.</b></br>
+<br> Day 68: exercising modulos in python.</br>
+<br> Day 73: Algorithm for scheduling cars using dictionary.</b></br>
