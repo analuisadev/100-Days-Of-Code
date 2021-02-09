@@ -74,4 +74,5 @@
 <br> Day69/70: Continuing modulation</br>
 <br> Day 71: Contact scheduling algorithm</br>
 <br> Day 72: Practicing error handling</br>
-<br> Day 73: Algorithm for scheduling cars using dictionary.</b></br>
+<br> Day 73: Algorithm for scheduling cars using dictionary.</br>
+<br> Day 74: Accessing whether a website is available</b>
