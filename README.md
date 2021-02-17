@@ -75,4 +75,10 @@
 <br> Day 71: Contact scheduling algorithm</br>
 <br> Day 72: Practicing error handling</br>
 <br> Day 73: Algorithm for scheduling cars using dictionary.</br>
-<br> Day 74: Accessing whether a website is available</b>
+<br> Day 74: Accessing whether a website is available</br>
+<br> Day 75, 76 and 77: Modularization system that registers name and age</br>
+<br> Day 78: Hello world using Flask</br>
+<br> Day 79: Purchasing system</br>
+<br> Day 80: Program that shows the date, month and hour (including minutes and seconds) in python</br>
+<br> Day 81: Matriz</br>
+<br> Day 82: Celsius and Fahrenheit converter</b></br>
