@@ -81,4 +81,6 @@
 <br> Day 79: Purchasing system</br>
 <br> Day 80: Program that shows the date, month and hour (including minutes and seconds) in python</br>
 <br> Day 81: Matriz</br>
-<br> Day 82: Celsius and Fahrenheit converter</b></br>
+<br> Day 82: Celsius and Fahrenheit converter</br>
+<br> Day 83: sum greater than limit </br>
+<br> Day 84: Celsius and Fahrenheit converter 2.0</b></br>
