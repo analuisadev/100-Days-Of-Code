@@ -6,4 +6,3 @@ def sum_greater_than_limit(a = 0, b = 0, limit = 0):
     else:
         return False
     
-#Programa principal
