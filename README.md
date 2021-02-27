@@ -90,4 +90,5 @@
 <br> Day 88: Time to download files</br>
 <br> Day 89: Search Wikipedia directly from Python</br>
 <br> Day 90: Calculation of ideal weight</br>
-<br> Day 91: Letter counter, vowels and consonants</b></br>
+<br> Day 91: Letter counter, vowels and consonants</br>
+<br> Day 92: Ball Class</b></br>
