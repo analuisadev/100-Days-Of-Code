@@ -85,4 +85,9 @@
 <br> Day 83: sum greater than limit </br>
 <br> Day 84: Celsius and Fahrenheit converter 2.0</br>
 <br> Day 85: Chat bot</br>
-<br> Day 86: Criminal investigation system</b></br>
+<br> Day 86: Criminal investigation system</br>
+<br> Day 87: Positive prime numbers</br>
+<br> Day 88: Time to download files</br>
+<br> Day 89: Search Wikipedia directly from Python</br>
+<br> Day 90: Calculation of ideal weight</br>
+<br> Day 91: Letter counter, vowels and consonants</b></br>
