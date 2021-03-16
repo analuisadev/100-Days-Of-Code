@@ -92,4 +92,6 @@
 <br> Day 90: Calculation of ideal weight</br>
 <br> Day 91: Letter counter, vowels and consonants</br>
 <br> Day 92: Ball Class</br>
-<br> Day 93: Virtual Pet Class</b></br>
+<br> Day 93: Virtual Pet Class</br>
+<br> Day 94: Exercício data por extenso</br>
+<br> Day 95 to 100: Creating a mini game with pygame</b></br>
