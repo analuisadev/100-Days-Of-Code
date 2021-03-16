@@ -91,4 +91,5 @@
 <br> Day 89: Search Wikipedia directly from Python</br>
 <br> Day 90: Calculation of ideal weight</br>
 <br> Day 91: Letter counter, vowels and consonants</br>
-<br> Day 92: Ball Class</b></br>
+<br> Day 92: Ball Class</br>
+<br> Day 93: Virtual Pet Class</b></br>
