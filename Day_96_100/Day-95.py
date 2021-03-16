@@ -1,3 +1,7 @@
+"""
+Parte 1: Criando uma Janela Vazia
+"""
+
 #Importações necessárias para a criação da janela
 import pygame
 from pygame.locals import *
